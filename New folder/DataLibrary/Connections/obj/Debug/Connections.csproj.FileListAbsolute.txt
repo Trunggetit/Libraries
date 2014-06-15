@@ -1,0 +1,6 @@
+C:\Users\Trung\Documents\Development\trunk\New folder\DataLibrary\Connections\bin\Debug\Connections.dll
+C:\Users\Trung\Documents\Development\trunk\New folder\DataLibrary\Connections\bin\Debug\Connections.pdb
+C:\Users\Trung\Documents\Development\trunk\New folder\DataLibrary\Connections\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+C:\Users\Trung\Documents\Development\trunk\New folder\DataLibrary\Connections\obj\Debug\Connections.csprojResolveAssemblyReference.cache
+C:\Users\Trung\Documents\Development\trunk\New folder\DataLibrary\Connections\obj\Debug\Connections.dll
+C:\Users\Trung\Documents\Development\trunk\New folder\DataLibrary\Connections\obj\Debug\Connections.pdb
