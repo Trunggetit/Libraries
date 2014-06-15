@@ -1,0 +1,8 @@
+C:\Users\Trung\Documents\Development\trunk\New folder\LibraryMyTest\LibraryMyTest\bin\Debug\LibraryMyTest.exe
+C:\Users\Trung\Documents\Development\trunk\New folder\LibraryMyTest\LibraryMyTest\bin\Debug\LibraryMyTest.pdb
+C:\Users\Trung\Documents\Development\trunk\New folder\LibraryMyTest\LibraryMyTest\obj\Debug\LibraryMyTest.csprojResolveAssemblyReference.cache
+C:\Users\Trung\Documents\Development\trunk\New folder\LibraryMyTest\LibraryMyTest\obj\Debug\LibraryMyTest.exe
+C:\Users\Trung\Documents\Development\trunk\New folder\LibraryMyTest\LibraryMyTest\obj\Debug\LibraryMyTest.pdb
+C:\Users\Trung\Documents\Development\trunk\New folder\LibraryMyTest\LibraryMyTest\bin\Debug\Connections.dll
+C:\Users\Trung\Documents\Development\trunk\New folder\LibraryMyTest\LibraryMyTest\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+C:\Users\Trung\Documents\Development\trunk\New folder\LibraryMyTest\LibraryMyTest\bin\Debug\Connections.pdb
