@@ -1,0 +1,28 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+@using (Html.BeginForm())
+{
+    
+}
+
+
+     <p>Choose</p>
+
+<form method="post" action="@Url.Action("uploadfile","home")" enctype="multipart/form-data">
+<select name="customertype">
+    <option value="value">Customer</option>
+        <option value="value">Employee</option>
+
+        <option value="value">Merchant</option>
+
+    
+</select>
+
+<input type="file" name="file" value="selectaffile">
+
+    <button type="submit">Submit</button>
+    </form>
+
+
